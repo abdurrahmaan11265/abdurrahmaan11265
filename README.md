@@ -1,6 +1,16 @@
 # 💫 About Me:
 🚀 Full-Stack Developer | AI/ML Enthusiast | Embedded Systems Innovator<br><br>I'm Mohammed Abdur Rahman, a passionate developer with a strong foundation in the MERN stack, Django, and embedded systems. I specialize in crafting scalable web applications and intelligent solutions that bridge the gap between software and hardware.<br><br>🧠 AI/ML Projects: Developed 'Clarity', an AI-powered career counseling platform, and 'FruitClassifier', an image recognition tool using Flask and machine learning.<br>🌐 Web Development: Created dynamic websites like the official Sai Ganapathi Engineering College site using Django, and 'PortoGenerator', a tool for generating professional portfolios.<br>🤖 Embedded Systems: Engineered 'Smart Robo Face', an interactive assistant integrating Arduino and Python for real-time motion tracking and conversations.<br>🏆 Achievements: Finalist in the Smart India Hackathon 2024; certified in Machine Learning by IIT Madras & GUVI.<br>📫 Let's connect and collaborate on innovative projects!
 
+## 🏅 Certification
+
+<a href="https://www.credly.com/badges/30bc2bd5-2eb9-4748-b4bd-1cf60925a02e/public_url" target="_blank">
+  <img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="150"/>
+</a>
+
+**AWS Certified Cloud Practitioner**  
+Issued by [Credly](https://www.credly.com)
+
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mohammed__abdurrahmaan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammad-abdur-rahman-9a30aa276) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdurrahmaan11265@gmail.com) 
 
